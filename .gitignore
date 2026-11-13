@@ -1,0 +1,10 @@
+# Generated files and local workspace caches
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+*.tmp
+*~
