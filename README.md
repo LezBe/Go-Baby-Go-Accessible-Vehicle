@@ -65,7 +65,7 @@ My contributions focused on **optocoupler-based control-input interfacing and su
 - That report describes a buck converter adjusted using a 9 V input to obtain a 5 V output.
 - Detailed completed safety, noise-reduction or long-term reliability test results were not identified in the reviewed materials.
 
-See [Technical Notes](TECHNICAL_NOTES.md), [System Architecture](docs/SYSTEM_ARCHITECTURE.md), and [Project Status & Evidence](docs/PROJECT_STATUS.md).
+See [Technical Notes](TECHNICAL_NOTES.md), [System Architecture](docs/SYSTEM_ARCHITECTURE.md), [Project Status & Evidence](docs/PROJECT_STATUS.md), and **[Archived Arduino Firmware](firmware/README.md)**.
 
 ## Repository Contents
 
@@ -84,7 +84,7 @@ See [Technical Notes](TECHNICAL_NOTES.md), [System Architecture](docs/SYSTEM_ARC
     └── README.md
 ```
 
-This public repository currently contains **attributed engineering documentation, not original team firmware or CAD files**. The original shared Drive documents have not been republished.
+This public repository contains **attributed engineering documentation and four archived Arduino development sketches** transcribed from team documents. These examples are **not a verified or integrated final firmware build**. The original shared Drive reports, images, and CAD files have not been republished.
 
 ## Skills Demonstrated
 
