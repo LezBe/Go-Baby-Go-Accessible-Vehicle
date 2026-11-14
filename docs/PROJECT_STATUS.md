@@ -14,6 +14,7 @@ This table distinguishes *plans and specifications* from *reported completed tes
 | Electrical noise reduction | No before/after data | Not verified |
 | Final stopping/speed tests | No identified conclusive report | Not verified |
 | Operational vehicle deployment | No identified conclusive report | Not verified |
+| Arduino firmware examples | Four original Google Docs containing RoboClaw, PWM, button, and servo examples | Archived under [`firmware/examples/`](../firmware/examples/); not confirmed integrated or validated |
 
 ## Future Evidence to Add (With Team Permission)
 
