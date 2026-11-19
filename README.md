@@ -92,4 +92,4 @@ Arduino · Motor Control · Optocouplers · Electrical Interfacing · PWM · Pow
 
 ## Portfolio
 
-[Return to Leziga's Electrical Engineering Portfolio](https://github.com/LezBe/Leziga_Portfolio)
+[Return to Leziga's Electrical Engineering Portfolio](https://github.com/LezigaBeage/Leziga_Portfolio)
